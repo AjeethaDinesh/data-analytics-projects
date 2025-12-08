@@ -125,6 +125,7 @@ Interactive features:
 ## 📷 Dashboard Screenshots
 
 ![Zomato Dashboard](Zomato.jpg)
+![Uploading Zomato.jpg…]()
 
 ---
 
