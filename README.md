@@ -124,7 +124,8 @@ Interactive features:
 
 ## 📷 Dashboard Screenshots
 
-![Zomato Dashboard](Zomato.jpg)
+![Zomato](https://github.com/user-attachments/assets/5dd76975-5688-4c1a-9d62-82979023ce40)
+
 
 ---
 
