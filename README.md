@@ -130,29 +130,6 @@ Interactive features:
 
 ---
 
-## 🚀 How to Use This Repository
-
-To explore and understand this Power BI project effectively, follow these steps:
-
-1. **Download the `.pbix` file** directly from this repository.
-2. **Open the file in Power BI Desktop** (preferably the latest version) to ensure full compatibility.
-3. Navigate through the **Power Query Editor** to review all data cleaning and transformation steps.
-4. Examine the **data model** to understand the structure, relationships, and dimensional design.
-5. Review the **DAX measures** used for KPIs and analytical calculations.
-6. Interact with the **dashboard visuals**, apply filters, and explore insights across locations, ratings, cuisines, and cost metrics.
-
----
-
-## 💡 Future Improvements
-
-This project can be enhanced further through the following improvements:
-
-* **Advanced Analytics Integration:** Incorporating Python or R scripts within Power BI for predictive modeling and deeper statistical insights.
-* **Enhanced Dimensional Modeling:** Creating fully optimized dimension tables for cuisines, locations, rating groups, and price categories.
-* **Geospatial Analysis:** Using map visuals or shape maps to reveal patterns based on regions and clusters.
-* **Dynamic Tooltip Pages:** Adding detailed tooltip pages to provide contextual insights on hover.
-* **Time-Series Expansion:** Introducing time-based data (if available) to analyze trends over months, seasons, or years.
-
 ## 📝 Project Summary
 
 This Zomato Power BI project provides a comprehensive analysis of restaurant data across different countries and cities. Using Power Query for data cleaning, a well‑structured data model, and advanced DAX calculations, the dashboard delivers clear insights into restaurant ratings, costs, cuisines, and customer preferences. The visualizations make it easy to understand global patterns, compare regions, and identify key culinary trends. This project demonstrates strong skills in data transformation, BI reporting, and interactive dashboard design.
